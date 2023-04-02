@@ -112,14 +112,14 @@ body {
     line-height: 1.50;
     letter-spacing: 0.04em;
     color: #FFFFFF;
-    background-color: #404BBF;
+    background-color: #4D5AE5;
     cursor: pointer;
 }
 
 .hero-btn:hover,
 .hero-btn:focus {
-    color: #4D5AE5;
-    background-color: #FFFFFF;
+    color: #ffffff;
+    background-color: #404BBF;
 }
 
 /*---------------ADVANTAGES---------------*/
@@ -232,7 +232,7 @@ body {
 }
 
 /*---------------PORTFOLIO---------------*/
-.button-menu {
+.portfolio {
     background-color: var(--background-main-color, #ffffff);
 }
 
@@ -260,9 +260,7 @@ body {
 
 /*---------------PORTFOLIO---------------*/
 
-.portfolio-list {
-    background-color: #ffffff;
-}
+.portfolio-list {}
 
 .portfolio-item {}
 
