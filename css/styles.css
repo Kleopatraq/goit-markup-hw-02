@@ -93,7 +93,7 @@ body {
 
 /*---------------HERO---------------*/
 .hero {
-    background-color: #2E2F42;
+    background-color: #2e2f42;
 }
 
 .hero-title {
@@ -180,7 +180,9 @@ body {
     color: var(--main-title-color, );
 }
 
-.team-list {}
+.team-list {
+    background-color: #FFFFFF;
+}
 
 .team-item {}
 
