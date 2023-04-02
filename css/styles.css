@@ -259,11 +259,20 @@ body {
 }
 
 /*---------------PORTFOLIO---------------*/
-.portfolio-list {}
+
+.portfolio-list {
+    background-color: #ffffff;
+}
 
 .portfolio-item {}
 
+.banking-title {}
+
+.banking-text {}
+
 .portfolio-title {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
     font-weight: var(--portfolio-title-font-weight, 500);
     font-size: 20px;
     line-height: 1.2;
@@ -272,6 +281,8 @@ body {
 }
 
 .portfolio-text {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
