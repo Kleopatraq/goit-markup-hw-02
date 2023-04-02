@@ -150,7 +150,7 @@ body {
 
 /*---------------WORKS---------------*/
 .works {
-    background-color: var(--background-main-color, #ffffff);
+    background-color: #ffffff;
 }
 
 .works-title {
