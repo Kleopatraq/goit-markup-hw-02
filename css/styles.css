@@ -93,7 +93,7 @@ body {
 
 /*---------------HERO---------------*/
 .hero {
-    background-color: #F4F4FD;
+    background-color: #2E2F42;
 }
 
 .hero-title {
@@ -124,7 +124,7 @@ body {
 
 /*---------------ADVANTAGES---------------*/
 .advantages {
-    background-color: #ffffff;
+    background-color: #FFFFFF;
 }
 
 .advantages-top-title {}
@@ -150,7 +150,7 @@ body {
 
 /*---------------WORKS---------------*/
 .works {
-    background-color: #ffffff;
+    background-color: #FFFFFF;
 }
 
 .works-title {
@@ -168,7 +168,7 @@ body {
 
 /*---------------TEAM---------------*/
 .team {
-    background: #FFFFFF;
+    background-color: #F4F4FD;
 }
 
 .team-title {
