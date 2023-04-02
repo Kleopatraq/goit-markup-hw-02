@@ -232,15 +232,15 @@ body {
 }
 
 /*---------------PORTFOLIO---------------*/
-.portfolio {
+.button-menu {
     background-color: var(--background-main-color, #ffffff);
 }
 
-.portfolio-list {}
+.button-menu-list {}
 
-.portfolio-item {}
+.button-menu-item {}
 
-.portfolio-btn {
+.button-menu-btn {
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 500;
@@ -252,18 +252,18 @@ body {
     cursor: pointer;
 }
 
-.portfolio-btn:hover,
-.portfolio-btn:focus {
+.button-menu-btn:hover,
+.button-menu-btn:focus {
     color: #FFFFFF;
     background: #404BBF;
 }
 
-/*---------------PORTFOLIO BANKING---------------*/
-.banking-list {}
+/*---------------PORTFOLIO---------------*/
+.portfolio-list {}
 
-.banking-item {}
+.portfolio-item {}
 
-.banking-title {
+.portfolio-title {
     font-weight: var(--portfolio-title-font-weight, 500);
     font-size: 20px;
     line-height: 1.2;
@@ -271,49 +271,7 @@ body {
     color: var(--portfolio-title-color, #2E2F42);
 }
 
-.banking-text {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: var(--portfolio-text-color, #2E2F42);
-}
-
-/*---------------PORTFOLIO BANKING---------------*/
-.service-list {}
-
-.service-item {}
-
-.service-title {
-    font-weight: var(--portfolio-title-font-weight, 500);
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: var(--portfolio-title-color, #2E2F42);
-}
-
-.service-text {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: var(--portfolio-text-color, #2E2F42);
-}
-
-/*---------------PORTFOLIO BANKING---------------*/
-.concept-list {}
-
-.list {}
-
-.concept-item {}
-
-.concept-titile {
-    font-weight: var(--portfolio-title-font-weight, 500);
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: var(--portfolio-title-color, #2E2F42);
-}
-
-.concept-text {
+.portfolio-text {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
