@@ -93,7 +93,7 @@ body {
 
 /*---------------HERO---------------*/
 .hero {
-    background-color: var(--background-second-color, #2E2F42);
+    background-color: #F4F4FD;
 }
 
 .hero-title {
@@ -124,7 +124,7 @@ body {
 
 /*---------------ADVANTAGES---------------*/
 .advantages {
-    background-color: var(--background-main-color), #ffffff;
+    background-color: #ffffff;
 }
 
 .advantages-top-title {}
