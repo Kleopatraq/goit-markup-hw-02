@@ -184,7 +184,9 @@ body {
     background-color: #FFFFFF;
 }
 
-.team-item {}
+.team-item {
+    background-color: #FFFFFF;
+}
 
 .team-title-item {
     font-weight: 500;
