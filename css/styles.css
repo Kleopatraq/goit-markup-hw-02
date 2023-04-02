@@ -69,7 +69,9 @@ body {
 
 .header-item {}
 
-.header-contact {}
+.header-contact {
+    font-style: normal;
+}
 
 .header-contact-list {}
 
@@ -103,14 +105,14 @@ body {
 }
 
 .hero-btn {
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.50;
     letter-spacing: 0.04em;
     color: #FFFFFF;
-    background-color: #4D5AE5;
+    background-color: #404BBF;
     cursor: pointer;
 }
 
@@ -124,6 +126,8 @@ body {
 .advantages {
     background-color: var(--background-main-color), #ffffff;
 }
+
+.advantages-top-title {}
 
 .advantages-list {}
 
