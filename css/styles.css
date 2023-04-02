@@ -7,11 +7,14 @@
     --portfolio-title-color: #2E2F42;
     --portfolio-text-color: #434455;
     --portfolio-title-font-weight: 500;
+    --body-background-color: #ffffff;
 }
 
 body {
     font-family: 'Roboto', sans-serif;
     letter-spacing: 0.02em;
+    color: #434455;
+    background-color: var(--body-background-color);
 }
 
 .list {
@@ -27,8 +30,10 @@ body {
     background: var(--background-main-color, #ffffff);
 }
 
+.header-navigation {}
+
 .header-logo-web {
-    font-family: 'Raleway', sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
