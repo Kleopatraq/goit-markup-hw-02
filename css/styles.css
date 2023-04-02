@@ -111,6 +111,7 @@ body {
     letter-spacing: 0.04em;
     color: #FFFFFF;
     background-color: #4D5AE5;
+    cursor: pointer;
 }
 
 .hero-btn:hover,
@@ -244,6 +245,7 @@ body {
     letter-spacing: 0.04em;
     color: #4D5AE5;
     background: #F4F4FD;
+    cursor: pointer;
 }
 
 .portfolio-btn:hover,
@@ -252,16 +254,7 @@ body {
     background: #404BBF;
 }
 
-/*---------------BANKING---------------*/
-.banking {
-    background-color: var(--background-main-color, #ffffff);
-}
-
-.banking-list {}
-
-.banking-item {}
-
-.banking-title {
+.portfolio-title {
     font-weight: var(--portfolio-title-font-weight, 500);
     font-size: 20px;
     line-height: 1.2;
@@ -269,57 +262,7 @@ body {
     color: var(--portfolio-title-color, #2E2F42);
 }
 
-.banking-text {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: var(--portfolio-text-color, #2E2F42);
-}
-
-/*---------------SERVICE---------------*/
-
-.service {
-    background-color: var(--background-main-color, #ffffff);
-}
-
-.service-list {}
-
-.service-item {}
-
-.service-title {
-    font-weight: var(--portfolio-title-font-weight, 500);
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: var(--portfolio-title-color, #2E2F42);
-}
-
-.service-text {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: var(--portfolio-text-color, #2E2F42);
-}
-
-/*---------------FRESH---------------*/
-
-.fresh {
-    background-color: var(--porttfolio-background-color, #ffffff);
-}
-
-.fresh-list {}
-
-.fresh-item {}
-
-.fresh-titile {
-    font-weight: var(--portfolio-title-font-weight, 500);
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: var(--portfolio-title-color, #2E2F42);
-}
-
-.fresh-text {
+.portfolio-text {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
